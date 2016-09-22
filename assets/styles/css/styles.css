@@ -815,15 +815,15 @@ footer .twitter-share-button {
   -moz-transform-origin: 50% 90%;
   transform-origin: 50% 90%;
   
-  margin: 0px -64px;
-  background-size: 128px 224px;
-  height: 224px;
-  width: 128px;
+  margin: 40px -94px;
+  background-size: 243px 120px;
+  height: 120px;
+  width: 243px;
   background-image: url(../../images/lighthouse.png);
   background-repeat: no-repeat;
-  bottom: 64px;
+  bottom: 94px;
   position: absolute;
-  right: 22%;
+  right: 20%;
 }
 
 .wave {
@@ -1511,10 +1511,10 @@ footer .twitter-share-button {
   }
 
   .lighthouse {
-    margin: 0px -96px;
-    background-size: 192px 336px;
-    height: 336px;
-    width: 192px;
+    margin: 60px -156px;
+    background-size: 300px 147px;
+    height: 147px;
+    width: 300px;
     bottom: 128px;
   }
 
@@ -1768,10 +1768,10 @@ footer .twitter-share-button {
   }
 
   .lighthouse {
-    margin: 0px -104px;
-    background-size: 308px 264px;
-    height: 264px;
-    width: 308px;
+    margin: 85px -204px;
+    background-size: 379px 187px;
+    height: 187px;
+    width: 379px;
     bottom: 128px;
   }
 
@@ -2015,10 +2015,10 @@ footer .twitter-share-button {
   }
 
   .lighthouse {
-    margin: 0px -112px;
-    background-size: 224px 392px;
-    height: 392px;
-    width: 224px;
+    margin: 80px -106px;
+    background-size: 406px 200px;
+    height: 200px;
+    width: 406px;
   }
 
   .light {
